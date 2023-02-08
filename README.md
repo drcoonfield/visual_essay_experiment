@@ -16,10 +16,6 @@
 
 # Sample visual essay
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-
 # Basic usage
 
 ## Image
@@ -29,7 +25,7 @@ _RIP Chino_ is a vernacular memorial on Letterly Street in Kensiongton.
        label="RIP Chino" 
        description="Memorial to Chino" 
        license="Digital Commons" 
-       url="//drcoonfield/visual_essay_experiment/images/2E527D5E-EA96-4AFE-85FC-C179EE2F66BD_1_105_c.jpeg">
+       url="https://drcoonfield/visual_essay_experiment/images/2E527D5E-EA96-4AFE-85FC-C179EE2F66BD_1_105_c.jpeg">
 
 ## Map
 
